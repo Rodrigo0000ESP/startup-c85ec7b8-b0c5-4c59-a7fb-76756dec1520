@@ -1,1 +1,4 @@
-This file defines the routes for handling different types of requests such as data aggregation, AI analysis, visualization, decision recommendations, and real-time alerts. It will call corresponding functions that interact with the MongoDB database to fetch and process data, run AI algorithms for analysis, and return personalized insights and recommendations back to the frontend. The logic includes routing the requests to the appropriate functions and ensuring the proper flow of data between components.
+1. Define routes for data aggregation, AI analysis, and dashboard customization.
+2. Parse incoming HTTP requests and extract relevant data.
+3. Call appropriate functions to process the data or render the dashboard.
+4. Return the processed data or dashboard views in HTTP responses.
