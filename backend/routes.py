@@ -1,5 +1,1 @@
-1. Receive HTTP requests with data analysis tasks
-2. Extract necessary data or parameters from the request
-3. Route the request to appropriate AI algorithms for analysis
-4. Retrieve results from AI analysis
-5. Format and return the analysis results in HTTP responses
+Define routes using Django's URL patterns to map endpoints to specific functions. Implement functions that handle data aggregation, AI analysis, real-time visualization, and recommendation generation using Python for AI algorithms. Ensure the responses are formatted appropriately for real-time visualization on the frontend using React.
