@@ -1,1 +1,1 @@
-Using Python with Flask or Django, define route handlers in backend/routes.py to receive incoming HTTP requests containing data. Process the received data using AI algorithms and generate insights. Return the analyzed insights as HTTP responses to the client for real-time decision support.
+Define routes that map to specific functions which process incoming requests, interact with the database, perform AI-driven analysis using TensorFlow or PyTorch, and return real-time insights and recommendations. Implement error handling, authentication, and authorization logic as needed.
