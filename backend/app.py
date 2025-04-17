@@ -1,1 +1,6 @@
-The app.py file will utilize Python with Django framework to handle the data aggregation from various sources. It will then apply AI algorithms for data analysis to generate insights. The file will also be responsible for generating real-time visualizations of key metrics and providing customizable decision support recommendations based on the analysis. The user-friendly interface will be integrated with React for easy navigation.
+1. Aggregate data from various sources using Python and relevant libraries. 
+2. Apply AI algorithms using TensorFlow and Scikit-learn for data analysis and insights generation. 
+3. Customize decision support recommendations based on the AI analysis. 
+4. Visualize real-time data using React for easy interpretation. 
+5. Integrate with MongoDB or SQL for data storage. 
+6. Deploy on AWS, Google Cloud Platform, or Azure for scalability and real-time processing.
