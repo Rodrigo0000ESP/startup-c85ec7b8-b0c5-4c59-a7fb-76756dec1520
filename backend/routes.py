@@ -1,0 +1,1 @@
+Define endpoints for data collection, AI analysis, and insights delivery. Parse incoming data, perform AI analysis using Python algorithms, and return real-time insights through HTTP responses.
