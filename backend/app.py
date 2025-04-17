@@ -1,5 +1,1 @@
-1. Receive data from multiple sources and integrate them into a unified format.
-2. Apply advanced AI algorithms using TensorFlow and Scikit-learn for data analysis and pattern recognition.
-3. Generate real-time insights and recommendations based on the analyzed data.
-4. Provide customizable decision models based on the startup's specific needs.
-5. Serve the processed data to the frontend React.js application for display on the dashboard.
+The app.py file will handle data aggregation, cleansing, and preprocessing from various sources using Python. It will then pass the cleaned data to the AI algorithms for predictive analytics and trend forecasting. Finally, it will manage the communication with the frontend to display the insights on the interactive dashboard using the React framework.
