@@ -1,1 +1,1 @@
-The file will contain React code to structure and render the index page of the web application. It may include components, styles, and interactions necessary for the homepage.
+The index.tsx file will contain the structure and components needed to display the landing page of the application. It will fetch necessary data from the backend API endpoints for rendering and utilize React components to create an interactive user interface.
