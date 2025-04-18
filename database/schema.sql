@@ -1,1 +1,1 @@
-The file will contain SQL queries to create tables, define relationships, and set constraints for the database schema. This will ensure data is organized and stored properly for efficient data aggregation, analysis, and visualization by the AI algorithms.
+The file contains SQL commands to create tables, define relationships, and set constraints for the database. It ensures that data is organized and stored efficiently for the data aggregation and analysis processes.
