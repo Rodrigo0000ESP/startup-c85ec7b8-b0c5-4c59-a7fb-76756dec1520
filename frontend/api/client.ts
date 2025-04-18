@@ -1,1 +1,1 @@
-This file acts as a client-side API handler that sends requests to the backend server for data aggregation and AI-driven analytics. It receives responses from the backend server with processed insights and decision recommendations, which are then displayed on the frontend using React components.
+The file would contain functions to fetch and aggregate data from multiple sources, pass the data to AI algorithms for analysis and visualization, and then return personalized recommendations and insights based on the analysis.
