@@ -1,4 +1,5 @@
-1. Receive data from multiple sources and aggregate it in MongoDB
-2. Implement AI algorithms for data analysis and trend prediction
-3. Develop customizable decision-making algorithms based on the analyzed data
-4. Provide real-time insights and decision support to the front-end interface
+1. Receive input data from various sources
+2. Aggregate and store data using SQL
+3. Implement AI algorithms in Python for data analysis and insight generation
+4. Customize decision support recommendations based on the analyzed data
+5. Provide the processed insights to the front-end interface for user interaction
