@@ -1,1 +1,1 @@
-1. Receive input data streams or parameters from various sources. 2. Aggregate and preprocess the data for AI analysis. 3. Utilize Python AI algorithms to analyze the data and generate insights. 4. Return the AI-driven recommendations or visualizations to be displayed on the customizable dashboard.
+1. Receive input data from multiple sources. 2. Aggregate and preprocess data for AI analytics. 3. Apply AI algorithms for trend prediction and decision recommendations. 4. Return real-time insights and recommendations through the frontend UI.
