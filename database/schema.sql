@@ -1,1 +1,1 @@
-The file contains SQL statements for creating tables, defining columns with data types, setting up relationships between tables using foreign keys, and specifying constraints such as unique keys or not null values.
+Parse the schema.sql file to execute SQL commands that create tables, define constraints, and establish relationships in the PostgreSQL database. Ensure the schema aligns with the data requirements of the AI algorithms and decision dashboards.
