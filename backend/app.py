@@ -1,1 +1,1 @@
-1. Receive input data from multiple sources or user inputs. 2. Aggregate the data for analysis. 3. Use Python AI algorithms to analyze and visualize the data. 4. Generate personalized recommendations and insights based on the analysis. 5. Return AI-driven insights and recommendations.
+1. Receive input data from multiple sources. 2. Aggregate the data using SQL queries. 3. Apply AI algorithms to analyze the aggregated data and generate insights. 4. Customize decision models based on the specific business scenarios. 5. Return the AI-driven insights and recommendations.
