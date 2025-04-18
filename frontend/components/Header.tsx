@@ -1,1 +1,1 @@
-The core logic of this file involves defining the structure and layout of the header component using JSX syntax, including elements such as logos, navigation links, and user account options.
+The Header.tsx file will contain JSX code to structure and style the header component. It may include elements such as the company logo, navigation links, search bar, and any other branding components.
