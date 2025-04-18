@@ -1,1 +1,1 @@
-1. Define routes for data aggregation, AI analysis, and dashboard customization. 2. Implement functions to process incoming data, run AI algorithms, and generate insights. 3. Return results in a format suitable for frontend visualization.
+1. Receive HTTP request with data for analysis. 2. Extract relevant data for aggregation and processing. 3. Use AI algorithms to analyze trends and make predictions. 4. Generate customizable decision recommendations based on the analysis. 5. Return the AI-driven insights and recommendations as an HTTP response.
