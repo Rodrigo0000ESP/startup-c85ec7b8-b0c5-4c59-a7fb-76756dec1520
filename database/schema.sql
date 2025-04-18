@@ -1,1 +1,1 @@
-Read the schema.sql file and execute the SQL queries to create tables and define relationships for storing aggregated data from various sources
+The file contains SQL commands to create tables, define columns, set constraints, and establish relationships between tables to ensure efficient data storage and retrieval. It plays a crucial role in setting up the foundation for data aggregation and analysis.
