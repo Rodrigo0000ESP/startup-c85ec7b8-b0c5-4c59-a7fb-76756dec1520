@@ -1,1 +1,1 @@
-The Header.tsx file will render the header component of the web application, providing navigation and access to different sections of the application. It may also display key information or notifications related to the AI-driven insights for quick reference.
+The Header.tsx file will contain components and logic to render the header section of the front-end interface. It will receive data from the AI-driven insights and decision support module and display relevant information such as notifications, user profile options, and navigation links.
