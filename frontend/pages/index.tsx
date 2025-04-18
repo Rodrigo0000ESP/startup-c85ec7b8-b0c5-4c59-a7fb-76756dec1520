@@ -1,1 +1,1 @@
-Render the main landing page components, fetch and display AI-driven insights, visualize key metrics through customizable dashboards
+1. Receive data from various sources. 2. Aggregate data for analysis. 3. Utilize Python for AI algorithms to generate insights. 4. Use React for frontend development to display customizable dashboard with insights.
