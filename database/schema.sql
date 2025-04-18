@@ -1,1 +1,1 @@
-Read the schema.sql file to extract SQL commands for creating tables, defining columns, and setting up relationships. Execute these SQL commands to create the necessary database structure for the project.
+Read the SQL script file line by line, execute each SQL command to create tables, columns, and define relationships in the database
