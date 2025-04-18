@@ -1,6 +1,5 @@
-1. Receive HTTP requests with data for analysis
-2. Extract the data parameters from the requests
-3. Perform data aggregation from various sources
-4. Apply AI algorithms for real-time analysis
-5. Generate customizable insights based on the startup stage
-6. Return HTTP responses with the AI-driven insights and data analysis results
+1. Receive HTTP requests containing data or parameters. 
+2. Extract the necessary data for analysis. 
+3. Utilize the AI algorithms to analyze the data and generate insights. 
+4. Customize decision support recommendations based on the analysis. 
+5. Return the insights and recommendations in the HTTP response.
