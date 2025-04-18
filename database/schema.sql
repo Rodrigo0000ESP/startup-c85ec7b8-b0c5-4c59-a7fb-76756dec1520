@@ -1,1 +1,1 @@
-The file contains SQL statements to create tables, define columns with data types, establish relationships between tables using foreign keys, and enforce constraints like primary keys and unique constraints. This allows for organized storage and retrieval of data for the AI algorithms and dashboard visualization.
+Read the schema.sql file to extract SQL commands for creating tables, defining columns, and setting up relationships. Execute these SQL commands to create the necessary database structure for the project.
