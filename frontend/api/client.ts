@@ -1,1 +1,1 @@
-1. Receive API request for data aggregation. 2. Send request to backend for AI-powered analytics. 3. Receive and process AI-generated insights. 4. Return the insights and recommendations to the client.
+The client.ts file will contain functions to make API requests to the backend server, handle responses, and manage client-side data manipulation. It may include functions for data aggregation, formatting, and sending data to the backend for further processing.
