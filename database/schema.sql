@@ -1,1 +1,1 @@
-The file contains SQL commands to create tables, define relationships, and set constraints for the database. It ensures that data is organized and stored efficiently for the data aggregation and analysis processes.
+The file contains SQL statements to create tables, define relationships, and set constraints for the database schema. This ensures data consistency and integrity when aggregating and analyzing data.
