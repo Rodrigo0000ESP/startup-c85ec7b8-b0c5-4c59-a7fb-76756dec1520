@@ -1,1 +1,1 @@
-The file contains SQL statements to create tables, define relationships, and set constraints for the database schema. This ensures data consistency and integrity when aggregating and analyzing data.
+The file contains SQL statements to create tables, define columns with data types, establish relationships between tables using foreign keys, and enforce constraints like primary keys and unique constraints. This allows for organized storage and retrieval of data for the AI algorithms and dashboard visualization.
