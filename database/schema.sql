@@ -1,1 +1,1 @@
-The file contains SQL statements to create tables, define relationships, and set constraints for organizing and storing data in the MongoDB database. This ensures data consistency and integrity for the AI-driven analytics and decision support system.
+The file will contain SQL queries to create tables, define relationships, and set constraints for the database schema. This will ensure data is organized and stored properly for efficient data aggregation, analysis, and visualization by the AI algorithms.
