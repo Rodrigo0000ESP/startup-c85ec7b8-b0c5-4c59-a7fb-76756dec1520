@@ -1,1 +1,1 @@
-1. Receive data from multiple sources for aggregation. 2. Perform AI-driven analysis on the aggregated data. 3. Generate real-time recommendations based on the analysis. 4. Provide processed data for the customizable dashboard interface.
+1. Receive input data from various sources. 2. Aggregate and preprocess the data. 3. Utilize AI algorithms for trend prediction and analysis. 4. Generate customizable decision recommendations based on the analysis.
