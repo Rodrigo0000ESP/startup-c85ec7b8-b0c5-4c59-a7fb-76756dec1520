@@ -1,1 +1,1 @@
-This file will define the routes for data aggregation, AI-powered analysis, and personalized recommendations. It will interact with Python scripts handling AI algorithms for data analysis, AWS services for data storage and processing, and frontend React components for displaying insights.
+The routes.py file will define endpoints for data aggregation, AI analysis, and decision model customization. It will call specific functions to process the incoming data, run AI algorithms for analysis, and provide customizable decision models.
