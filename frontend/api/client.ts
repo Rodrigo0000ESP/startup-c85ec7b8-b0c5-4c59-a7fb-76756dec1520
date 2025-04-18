@@ -1,1 +1,1 @@
-This file will handle client interactions by receiving input data related to client activities, preferences, or other relevant information. It will then pass this data to the AI algorithms for analysis and generate insights tailored for startups. The output will be customized decision support recommendations based on the analysis performed.
+The client.ts file will handle API requests to fetch data from the backend, pass the data to the AI algorithms for analysis, and then display the insights and recommendations on the customizable dashboard using React components.
