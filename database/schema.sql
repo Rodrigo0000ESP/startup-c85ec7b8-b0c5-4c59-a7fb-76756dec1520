@@ -1,1 +1,1 @@
-Read the SQL script file line by line, execute each SQL command to create tables, columns, and define relationships in the database
+The file contains SQL statements for creating tables, defining columns with data types, setting up relationships between tables using foreign keys, and specifying constraints such as unique keys or not null values.
