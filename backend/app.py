@@ -1,1 +1,4 @@
-The app.py file will define routes and functions for data aggregation, AI analysis, and serving insights. It will utilize Python with Flask to handle incoming data, process it using AI algorithms, and provide the necessary information to the frontend for visualization.
+1. Receive data from multiple sources and aggregate it in MongoDB
+2. Implement AI algorithms for data analysis and trend prediction
+3. Develop customizable decision-making algorithms based on the analyzed data
+4. Provide real-time insights and decision support to the front-end interface
