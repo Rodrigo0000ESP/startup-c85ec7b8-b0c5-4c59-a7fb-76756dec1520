@@ -1,1 +1,1 @@
-The Header.tsx file contains JSX code to define the structure and styling of the header component. It may include logo, navigation links, user profile information, and any other relevant elements for the header.
+The Header.tsx file will render the header component of the web application, providing navigation and access to different sections of the application. It may also display key information or notifications related to the AI-driven insights for quick reference.
