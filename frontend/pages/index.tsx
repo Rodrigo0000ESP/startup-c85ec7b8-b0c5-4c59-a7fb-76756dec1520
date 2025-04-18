@@ -1,1 +1,1 @@
-1. Aggregate data from various sources. 2. Use AI algorithms to analyze the data and generate valuable insights. 3. Display the insights on customizable dashboards. 4. Trigger real-time alerts and notifications based on specific events or thresholds.
+Render the main landing page components, fetch and display AI-driven insights, visualize key metrics through customizable dashboards
