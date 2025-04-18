@@ -1,1 +1,1 @@
-1. Receive data from various sources for aggregation.\n2. Utilize AI algorithms built with TensorFlow for data analysis and insights generation.\n3. Develop customizable dashboards using React for visualizing key metrics.\n4. Implement real-time data processing capabilities using Django.\n5. Provide the processed insights and analytics to support decision-making for startups.
+1. Receive data from various sources. 2. Aggregate the data. 3. Apply AI algorithms for real-time analysis. 4. Generate customizable insights based on the analysis.
