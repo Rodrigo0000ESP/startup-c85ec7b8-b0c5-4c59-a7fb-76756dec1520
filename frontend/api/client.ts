@@ -1,1 +1,1 @@
-The client.ts file will handle API requests to fetch data from the backend, pass the data to the AI algorithms for analysis, and then display the insights and recommendations on the customizable dashboard using React components.
+This file acts as a client-side API handler that sends requests to the backend server for data aggregation and AI-driven analytics. It receives responses from the backend server with processed insights and decision recommendations, which are then displayed on the frontend using React components.
