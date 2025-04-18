@@ -1,1 +1,5 @@
-1. Receive input data from various sources.\n2. Aggregate and preprocess the data.\n3. Utilize AI algorithms to analyze the data and generate insights.\n4. Provide customizable decision support recommendations based on the analysis.
+1. Receive data from various sources
+2. Aggregate the received data
+3. Apply AI algorithms for trend identification and analysis
+4. Generate personalized recommendations based on the analysis
+5. Return the AI-driven insights and recommendations
