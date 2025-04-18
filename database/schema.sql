@@ -1,1 +1,1 @@
-Read the schema file and execute SQL queries to create tables, define relationships, and set up the database structure required for data storage and retrieval.
+Read the schema.sql file and execute the SQL queries to create tables and define relationships for storing aggregated data from various sources
