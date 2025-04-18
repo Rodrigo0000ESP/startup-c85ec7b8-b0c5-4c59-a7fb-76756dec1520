@@ -1,1 +1,6 @@
-The routes.py file in Django will contain URL patterns mapped to corresponding view functions. These view functions will process the incoming requests, handle the business logic, interact with the data sources, and return appropriate HTTP responses.
+1. Receive HTTP requests with data for analysis
+2. Extract the data parameters from the requests
+3. Perform data aggregation from various sources
+4. Apply AI algorithms for real-time analysis
+5. Generate customizable insights based on the startup stage
+6. Return HTTP responses with the AI-driven insights and data analysis results
