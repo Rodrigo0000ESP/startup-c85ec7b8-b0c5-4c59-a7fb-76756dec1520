@@ -1,1 +1,3 @@
-The index.tsx file will fetch data from the backend API that aggregates data from multiple sources. It will then pass this data to the AI algorithms written in Python for analysis and trend prediction. The output of the AI analysis will be displayed in the React front-end interface for the user to make informed decisions.
+1. Receive aggregated data from data aggregation module
+2. Process the data using AI algorithms to generate insights and decision support recommendations
+3. Return the tailored recommendations to the user interface for display
