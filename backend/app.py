@@ -1,1 +1,1 @@
-1. Receive input data from various sources. 2. Aggregate and preprocess the data. 3. Utilize AI algorithms for trend prediction and analysis. 4. Generate customizable decision recommendations based on the analysis.
+1. Receive input data from multiple sources or user inputs. 2. Aggregate the data for analysis. 3. Use Python AI algorithms to analyze and visualize the data. 4. Generate personalized recommendations and insights based on the analysis. 5. Return AI-driven insights and recommendations.
