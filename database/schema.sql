@@ -1,1 +1,1 @@
-The file will be read to extract the SQL commands needed to create tables, define relationships, and set constraints in the database. This logic will be executed using Python's database management libraries to create the necessary tables and structure based on the schema defined in the schema.sql file.
+Read the schema.sql file, connect to PostgreSQL database, execute the SQL queries to create tables and define relationships for efficient data storage
