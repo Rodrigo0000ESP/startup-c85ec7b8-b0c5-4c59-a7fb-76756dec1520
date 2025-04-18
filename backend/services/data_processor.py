@@ -1,1 +1,1 @@
-1. Receive raw data from multiple sources. 2. Preprocess the data for AI analysis. 3. Apply AI algorithms for data analysis. 4. Generate visualizations based on the analysis. 5. Provide personalized recommendations and insights to users.
+1. Receive data from multiple sources for processing. 2. Utilize AI algorithms to analyze the data and generate insights. 3. Apply customizable decision models based on the analysis. 4. Provide the processed insights and decision support in real-time.
