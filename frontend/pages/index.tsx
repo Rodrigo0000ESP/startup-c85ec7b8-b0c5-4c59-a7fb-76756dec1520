@@ -1,1 +1,1 @@
-1. Receive input data from multiple sources. 2. Aggregate and preprocess data for AI analytics. 3. Apply AI algorithms for trend prediction and decision recommendations. 4. Return real-time insights and recommendations through the frontend UI.
+This file contains the React component for the index page. It may fetch initial data from the backend APIs for display, handle user interactions, and render components as per the design requirements.
