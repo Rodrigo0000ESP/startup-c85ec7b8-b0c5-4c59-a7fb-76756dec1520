@@ -1,1 +1,1 @@
-The schema.sql file contains SQL statements to create tables in MongoDB to store the aggregated data. Each table corresponds to a specific data source, defining the fields and their data types. This file ensures the database structure aligns with the data aggregation requirements and supports the AI modeling and analysis phases of the project.
+Read the schema file and execute SQL queries to create tables, define relationships, and set up the database structure required for data storage and retrieval.
