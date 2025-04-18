@@ -1,1 +1,1 @@
-The file would contain functions to fetch and aggregate data from multiple sources, pass the data to AI algorithms for analysis and visualization, and then return personalized recommendations and insights based on the analysis.
+The client.ts file will manage the retrieval of data from multiple sources, format it appropriately, and send it to the AI algorithms for analysis. It will then receive the insights and decision models from the AI modules and present them to the front-end interface built using React.
