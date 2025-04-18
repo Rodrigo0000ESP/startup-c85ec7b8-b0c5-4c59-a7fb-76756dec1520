@@ -1,1 +1,1 @@
-The Header.tsx file will contain components and logic to render the header section of the front-end interface. It will receive data from the AI-driven insights and decision support module and display relevant information such as notifications, user profile options, and navigation links.
+This file contains JSX code written in React to render the header component with the necessary elements such as logo, navigation links, and other UI components.
