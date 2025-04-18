@@ -1,1 +1,1 @@
-The client.ts file sends requests to the backend API to fetch data from various sources, then receives and processes the AI-driven insights and decision support recommendations before presenting them to the user interface.
+1. Receive API request for data aggregation. 2. Send request to backend for AI-powered analytics. 3. Receive and process AI-generated insights. 4. Return the insights and recommendations to the client.
