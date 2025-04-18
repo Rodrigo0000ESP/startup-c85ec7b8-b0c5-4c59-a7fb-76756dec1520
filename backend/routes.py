@@ -1,1 +1,1 @@
-Define routes for data aggregation, AI analysis, and recommendation generation. Implement functions to handle incoming data, process it using TensorFlow for trend forecasting, and store/retrieve data from PostgreSQL. Return personalized recommendations and insights based on the analyzed data.
+Define different routes for data aggregation, AI analysis, and visualization. Parse incoming data, process it using Python AI algorithms integrated with MySQL for data storage, and return real-time insights and visualizations to the frontend using HTTP responses.
