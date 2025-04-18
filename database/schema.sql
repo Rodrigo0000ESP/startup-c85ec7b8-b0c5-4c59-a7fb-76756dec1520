@@ -1,1 +1,1 @@
-Read the schema.sql file, connect to PostgreSQL database, execute the SQL queries to create tables and define relationships for efficient data storage
+The file contains SQL queries to create tables, define relationships, and set constraints for the database schema. It ensures that the data collected from various sources can be stored and queried efficiently. This schema will be used to organize and manage the data needed for the AI-driven data analysis and real-time visualization features of the project.
