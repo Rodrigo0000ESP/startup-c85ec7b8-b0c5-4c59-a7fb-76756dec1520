@@ -1,4 +1,5 @@
-1. Receive data from various sources for processing. 
-2. Apply AI algorithms for analytics and predictive modeling. 
-3. Generate customizable decision dashboards for startups based on insights. 
-4. Provide real-time decision support through tailored AI-driven insights.
+1. Receive data from various sources
+2. Aggregate and clean the incoming data
+3. Apply AI algorithms for analysis and insight generation
+4. Generate decision support recommendations based on the analyzed data
+5. Return the insights and recommendations
