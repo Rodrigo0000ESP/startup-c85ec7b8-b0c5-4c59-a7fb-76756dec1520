@@ -1,0 +1,1 @@
+1. Receive data from various sources for aggregation. 2. Pass data to AI algorithms for analysis. 3. Receive AI-generated insights. 4. Display insights in a user-friendly format on the dashboard.
