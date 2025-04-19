@@ -1,4 +1,10 @@
-1. Load the input data from data aggregation module
-2. Preprocess the data for AI analysis
-3. Apply AI algorithms to generate insights
-4. Return a list of insights
+from data_aggregation import load_data
+from preprocessing import preprocess_data
+from ai_algorithms import apply_ai
+
+
+def generate_insights():
+    data = load_data()
+    preprocessed_data = preprocess_data(data)
+    insights = apply_ai(preprocessed_data)
+    return insights
