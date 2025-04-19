@@ -1,1 +1,1 @@
-Read the schema.sql file, parse the SQL commands within it, and execute these commands to create the necessary tables in the database. Ensure that the schema design aligns with the data aggregation and AI analysis requirements of the project.
+The schema.sql file contains SQL statements to create tables such as users, aggregated_data, metrics, and other necessary tables based on the data requirements identified in the project. The tables will have appropriate columns to store different types of data and relationships between them.
