@@ -1,0 +1,1 @@
+Fetch data from backend services using API calls and populate the UI components with the received data
