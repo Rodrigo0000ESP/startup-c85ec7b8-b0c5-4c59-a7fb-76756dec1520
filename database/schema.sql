@@ -1,1 +1,0 @@
-The schema.sql file contains SQL statements to create tables such as users, aggregated_data, metrics, and other necessary tables based on the data requirements identified in the project. The tables will have appropriate columns to store different types of data and relationships between them.
