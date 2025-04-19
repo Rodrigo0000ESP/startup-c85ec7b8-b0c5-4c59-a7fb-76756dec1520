@@ -1,1 +1,6 @@
-1. Receive data from various sources using data aggregation utilities. 2. Utilize AI algorithms developed in 'backend/utils/ai_analysis.py' to analyze the aggregated data and generate insights. 3. Return the AI-driven insights to be displayed on the user-friendly dashboard.
+from backend.utils import ai_analysis
+
+def get_ai_insights():
+    aggregated_data = data_aggregation_utilities.get_data()
+    insights = ai_analysis.analyze_data(aggregated_data)
+    return insights
