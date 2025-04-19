@@ -1,1 +1,0 @@
-1. Fetch data from various sources using API calls. 2. Send the data to the backend server for AI analysis. 3. Receive AI-generated insights and decision support recommendations from the backend. 4. Display the insights and recommendations in the frontend interface.

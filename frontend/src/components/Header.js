@@ -1,1 +1,0 @@
-The Header.js file contains JSX code to structure and style the header component using React. It includes elements like company logo, navigation links, and possibly user authentication controls.

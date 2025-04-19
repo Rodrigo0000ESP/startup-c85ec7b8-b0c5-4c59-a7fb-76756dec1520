@@ -1,1 +1,0 @@
-1. Receive data points or dataset as input. 2. Use Python libraries like Matplotlib or Plotly to create charts or graphs based on the provided data. 3. Implement interactivity features if needed. 4. Render the chart on the frontend for user visualization.
