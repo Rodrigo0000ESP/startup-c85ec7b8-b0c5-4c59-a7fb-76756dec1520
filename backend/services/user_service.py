@@ -1,5 +1,7 @@
-1. Receive user-related data or queries from the routes/user_routes.py
-2. Process the data by aggregating information from various sources
-3. Utilize AI-powered algorithms for trend identification and analysis
-4. Generate customizable insights and metrics based on the processed data
-5. Return the insights or processed data to the user routes for visualization or further processing
+1. Receive user data or queries from user_routes.py.
+2. Aggregate data from various sources.
+3. Utilize AI algorithms (TensorFlow) for trend identification and analysis.
+4. Generate real-time insights based on the analyzed data.
+5. Customize decision recommendations for startups based on the insights.
+6. Store processed data in PostgreSQL database.
+7. Return insights and recommendations back to the user_routes.py for display.
