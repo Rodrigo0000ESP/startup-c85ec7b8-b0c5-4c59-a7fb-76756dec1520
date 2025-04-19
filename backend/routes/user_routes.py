@@ -1,5 +1,4 @@
-1. Receive HTTP requests for user-related actions such as login, registration, profile updates. 
-2. Validate and process the requests, interacting with the user service to perform user-specific operations. 
-3. Handle authentication and authorization for accessing data processing functionalities. 
-4. Communicate with data service to retrieve or store user-specific data. 
-5. Return appropriate HTTP responses based on the request outcomes.
+1. Receive HTTP requests with user data from frontend.
+2. Extract necessary information from the requests.
+3. Call functions from user_service.py to process the data.
+4. Return HTTP responses with processed user data or status codes.
