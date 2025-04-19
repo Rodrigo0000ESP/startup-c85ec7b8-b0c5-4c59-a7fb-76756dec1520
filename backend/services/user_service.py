@@ -1,3 +1,1 @@
-1. Retrieve user data based on the provided user_id using database queries.
-2. Process and format the user data as needed.
-3. Return the user data.
+1. Receive data from various sources using data aggregation utilities. 2. Utilize AI algorithms developed in 'backend/utils/ai_analysis.py' to analyze the aggregated data and generate insights. 3. Return the AI-driven insights to be displayed on the user-friendly dashboard.
