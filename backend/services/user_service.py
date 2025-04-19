@@ -1,1 +1,3 @@
-The user_service.py file contains functions for user authentication, user profile management, and interactions with the user database. It validates user credentials, updates user profiles, and retrieves user-specific data. Additionally, it may contain logic for user-specific services or functionalities.
+1. Retrieve user data based on the provided user_id using database queries.
+2. Process and format the user data as needed.
+3. Return the user data.
