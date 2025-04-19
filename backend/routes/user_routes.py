@@ -1,6 +1,4 @@
-1. Receive HTTP requests related to user operations.
+1. Receive HTTP requests with user-related actions and parameters.
 2. Extract necessary data from the requests.
-3. Call corresponding functions from user_service.py to perform business logic.
-4. Receive results from user_service.py.
-5. Generate appropriate HTTP responses based on the results.
-6. Return the responses.
+3. Call corresponding functions from the user service to process the user data.
+4. Receive the results from the user service and return appropriate HTTP responses.
