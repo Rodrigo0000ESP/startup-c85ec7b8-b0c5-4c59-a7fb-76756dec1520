@@ -1,1 +1,1 @@
-The client.ts file will contain functions to make API requests to the backend server, handle responses, and manage client-side data manipulation. It may include functions for data aggregation, formatting, and sending data to the backend for further processing.
+1. Fetch data from various sources using API calls. 2. Send the data to the backend server for AI analysis. 3. Receive AI-generated insights and decision support recommendations from the backend. 4. Display the insights and recommendations in the frontend interface.
