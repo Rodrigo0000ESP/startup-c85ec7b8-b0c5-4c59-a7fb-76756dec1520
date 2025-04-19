@@ -1,1 +1,0 @@
-The data service will fetch data from various sources and pass it to the AI model for analysis. The AI model will generate insights based on the data received. The data service will also handle triggering real-time alerts for critical trends.
