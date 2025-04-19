@@ -1,0 +1,1 @@
+The file contains functions that make API calls to the backend services defined in the backend/routes/data_routes.py and backend/services/data_service.py. It formats the requests, sends them to the backend, and processes the responses to be used in the frontend components.
