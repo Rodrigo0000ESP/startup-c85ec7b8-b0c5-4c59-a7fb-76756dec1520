@@ -1,0 +1,1 @@
+1. Receive requests for user data or actions from the frontend. 2. Call the corresponding functions in the user service to process the requests. 3. Return the response back to the frontend.
