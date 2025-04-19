@@ -1,0 +1,1 @@
+1. Receive request data from frontend. 2. Aggregate data from multiple sources. 3. Perform AI-powered data analysis and visualization. 4. Generate customizable decision recommendations. 5. Return the AI-driven insights to the frontend.
