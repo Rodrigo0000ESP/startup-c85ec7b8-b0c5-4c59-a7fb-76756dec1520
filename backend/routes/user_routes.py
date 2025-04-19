@@ -1,12 +1,12 @@
 from backend.services import user_service
 
-@user_routes.route('/user_data', methods=['GET'])
+@app.route('/user', methods=['GET'])
 def get_user_data():
-    data = user_service.retrieve_user_data()
-    return data
+    user_data = user_service.get_user_data()
+    return jsonify(user_data)
 
-@user_routes.route('/user_action', methods=['POST'])
-def perform_user_action():
+@app.route('/user', methods=['POST'])
+def update_user_data():
     request_data = request.get_json()
-    response = user_service.process_user_action(request_data)
-    return response
+    updated_data = user_service.update_user_data(request_data)
+    return jsonify(updated_data)
