@@ -1,1 +1,5 @@
-The user_service.py file will handle data aggregation from various sources, process the data using AI-powered analytics algorithms to generate insights, provide customizable decision recommendations based on the analyzed data, set up real-time alerts for key business metrics, and interact with the frontend to display data visualization through the user-friendly dashboard.
+1. Receive user-related data or queries from the routes/user_routes.py
+2. Process the data by aggregating information from various sources
+3. Utilize AI-powered algorithms for trend identification and analysis
+4. Generate customizable insights and metrics based on the processed data
+5. Return the insights or processed data to the user routes for visualization or further processing
