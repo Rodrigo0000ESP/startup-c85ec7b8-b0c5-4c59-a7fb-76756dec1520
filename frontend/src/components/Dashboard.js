@@ -1,0 +1,1 @@
+1. Receive aggregated data from multiple sources, 2. Pass the data to the AI algorithms for analysis, 3. Generate visualizations based on the analyzed data, 4. Display customizable decision recommendations on the dashboard
