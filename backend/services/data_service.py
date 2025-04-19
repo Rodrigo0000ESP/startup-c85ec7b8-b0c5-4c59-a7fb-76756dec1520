@@ -1,0 +1,1 @@
+1. Receive data from multiple sources. 2. Implement AI algorithms in Python for analysis. 3. Generate insights based on the analysis. 4. Return the insights and recommendations to be used in the dashboard for visualization.
