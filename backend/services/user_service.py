@@ -1,1 +1,1 @@
-1. Receive user data input. 2. Utilize AI algorithms for real-time analysis of user data. 3. Generate customized decision support recommendations based on the analysis. 4. Return the processed data with insights and recommendations.
+The user_service.py file contains functions for user authentication, user profile management, and interactions with the user database. It validates user credentials, updates user profiles, and retrieves user-specific data. Additionally, it may contain logic for user-specific services or functionalities.
