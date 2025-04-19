@@ -1,0 +1,1 @@
+This file will use Python to fetch and combine data from different sources, clean and preprocess the data as needed, and store the aggregated data in a format suitable for AI algorithms.
