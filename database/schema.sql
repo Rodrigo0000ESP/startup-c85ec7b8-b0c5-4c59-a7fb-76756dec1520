@@ -1,1 +1,1 @@
-Parse the schema.sql file to execute SQL commands that create tables, define constraints, and establish relationships in the PostgreSQL database. Ensure the schema aligns with the data requirements of the AI algorithms and decision dashboards.
+Read the schema.sql file, parse the SQL commands within it, and execute these commands to create the necessary tables in the database. Ensure that the schema design aligns with the data aggregation and AI analysis requirements of the project.
