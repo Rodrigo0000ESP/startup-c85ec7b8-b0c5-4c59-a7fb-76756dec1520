@@ -1,0 +1,1 @@
+1. Receive user-specific data and preferences. 2. Utilize AI algorithms to analyze the data. 3. Generate personalized decision recommendations. 4. Prepare processed data for visualization.
